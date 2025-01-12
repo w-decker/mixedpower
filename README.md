@@ -16,9 +16,7 @@ C = Condition is within both Participant and Target (i.e. repeated across both)
 To install 
 
 ```
-git clone https://github.com/w-decker/mixedpower.git
-cd mixedpower
-pip install .
+pip install git+https://github.com/w-decker/mixedpower.git
 ```
 
 # Usage
